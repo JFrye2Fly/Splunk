@@ -11,6 +11,8 @@ The pictures below are the queries used and the visualizations. <br> <br>
 <h2>This query lists fraudlent events by category </h2>
 <img width="1439" alt="Screen Shot 2024-12-12 at 4 07 22 PM" src="https://github.com/user-attachments/assets/0a775f5a-098a-4e76-bcc3-1b6c444c97ca" /> <br> <br> <br>
 
+
+<h2>This query lists fraudlent events by age</h2>
 <img width="1432" alt="Screen Shot 2024-12-12 at 5 37 21 PM" src="https://github.com/user-attachments/assets/53ccc67c-f855-43c1-a01f-7211dd84cec8" /> <br> <br> <br>
 
 <img width="1439" alt="Screen Shot 2024-12-12 at 5 49 08 PM" src="https://github.com/user-attachments/assets/bbea0072-a1cd-471d-908f-5c8e3d9248db" /> <br> <br> <br>
