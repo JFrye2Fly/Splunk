@@ -4,7 +4,7 @@ Using Splunk to discover Fraud events by Age, Category, Gender, Merchant and Cat
 
 ## Introduction
 
-In this project I use Splunk in a job simulation with CommonWealth bank to discover fraudulent events by age, category, gender, merchant, category and a combination of those.
+In this project I use Splunk in a job simulation with CommonWealth bank to discover fraudulent events by age, category, gender, merchant, and a combination of those.
 
 The pictures below are the queries used and the visualizations. <br> <br>
 
